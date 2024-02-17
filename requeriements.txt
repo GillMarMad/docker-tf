@@ -1,0 +1,4 @@
+fastapi
+tensorflow-cpu
+uvicorn
+python-multipart
